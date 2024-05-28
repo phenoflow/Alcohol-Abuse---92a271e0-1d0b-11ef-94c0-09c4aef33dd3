@@ -1,0 +1,108 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/alcohol-abuse-counselling---primary.py
+inputModule3:
+  class: File
+  path: python/episodic-alcohol-abuse---primary.py
+inputModule4:
+  class: File
+  path: python/mental-alcohol-abuse---primary.py
+inputModule5:
+  class: File
+  path: python/alcohol-abuse---primary.py
+inputModule6:
+  class: File
+  path: python/alcohol-abuse-hallucinosis---primary.py
+inputModule7:
+  class: File
+  path: python/continuous-alcohol-abuse---primary.py
+inputModule8:
+  class: File
+  path: python/alcohol-abuse-community---primary.py
+inputModule9:
+  class: File
+  path: python/alcohol-abuse-paranoia---primary.py
+inputModule10:
+  class: File
+  path: python/alcohol-abuse-induced---primary.py
+inputModule11:
+  class: File
+  path: python/other-alcohol-abuse---primary.py
+inputModule12:
+  class: File
+  path: python/alcohol-abuse-service---primary.py
+inputModule13:
+  class: File
+  path: python/alcohol-abuse-withdrawal---primary.py
+inputModule14:
+  class: File
+  path: python/alcohol-abuse-brain---primary.py
+inputModule15:
+  class: File
+  path: python/harmful-alcohol-abuse---primary.py
+inputModule16:
+  class: File
+  path: python/alcohol-abuse-behav---primary.py
+inputModule17:
+  class: File
+  path: python/alcohol-abuse-intoxication---primary.py
+inputModule18:
+  class: File
+  path: python/alcohol-abuse-hepatitis---primary.py
+inputModule19:
+  class: File
+  path: python/nondependent-alcohol-abuse---primary.py
+inputModule20:
+  class: File
+  path: python/alcohol-abuse-remission---primary.py
+inputModule21:
+  class: File
+  path: python/alcohol-abuse-korsakov---primary.py
+inputModule22:
+  class: File
+  path: python/chronic-alcohol-abuse---primary.py
+inputModule23:
+  class: File
+  path: python/alcohol-abuse-alcoholism---primary.py
+inputModule24:
+  class: File
+  path: python/alcohol-abuse-dementium---primary.py
+inputModule25:
+  class: File
+  path: python/alcohol-abuse-detoxification---primary.py
+inputModule26:
+  class: File
+  path: python/alcohol-abuse-misuse---primary.py
+inputModule27:
+  class: File
+  path: python/alcohol-abuse-liver---primary.py
+inputModule28:
+  class: File
+  path: python/alcohol-abuse-monitoring---primary.py
+inputModule29:
+  class: File
+  path: python/alcohol-abuse-dependence---primary.py
+inputModule30:
+  class: File
+  path: python/alcohol-abuse-addiction---primary.py
+inputModule31:
+  class: File
+  path: python/amnestic-alcohol-abuse---primary.py
+inputModule32:
+  class: File
+  path: python/alcohol-abuse-unspecified---primary.py
+inputModule33:
+  class: File
+  path: python/alcohol-abuse-cirrhosis---primary.py
+inputModule34:
+  class: File
+  path: python/alcohol-abuse-state---primary.py
+inputModule35:
+  class: File
+  path: python/alcohol-abuse-delirium---primary.py
+inputModule36:
+  class: File
+  path: python/output-cases.py
